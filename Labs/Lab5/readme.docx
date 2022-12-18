@@ -1,0 +1,11 @@
+Problem 1:
+compile: g++ lab_5_1-1.cpp -o a
+run: ./a
+
+Problem 2;
+compile: g++ lab_5_1-2.cpp -o a
+run: ./a
+
+Problem 3:
+compile: g++ lab_5_1-3.cpp -o a
+run: ./a

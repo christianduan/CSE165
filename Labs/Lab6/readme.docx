@@ -1,0 +1,7 @@
+Problem 1:
+compile: g++ lab_6_1-1.cpp -o a
+run: ./a
+
+Problem 2:
+compile g++ main.cpp -o a
+run ./a
